@@ -51,8 +51,18 @@ localizedDates = false
   name = 'tags'
   weight = 80
 
+<<<<<<< HEAD
 [params.utterances]
   repo = "IEDCMEC/iedc-blog"
   issueTerm = "pathname"
   label = ""
   theme= "icy-dark"
+=======
+[params.page.comment.utterances]
+    enable = true
+    repo = "subru-37/iedc-blog"
+    issueTerm = "pathname"
+    label = "COMMENT ON"
+    lightTheme = "github-light"
+    darkTheme = "icy-dark"
+>>>>>>> addaca0180bc0cc6fb5d4d193959bda0639dff22
