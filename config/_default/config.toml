@@ -50,3 +50,9 @@ localizedDates = false
 [[related.indices]]
   name = 'tags'
   weight = 80
+
+[params.utterances]
+  repo = "IEDCMEC/iedc-blog"
+  issueTerm = "pathname"
+  label = ""
+  theme= "icy-dark"
