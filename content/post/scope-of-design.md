@@ -4,6 +4,7 @@ date: 2022-09-30T15:23:44+05:30
 authors:
   - name: "Gourisankar Shaji"
     website: "https://www.linkedin.com/in/gourisankar-shaji"
+    about: "He thrives as a media black hole consuming all kinds of internet content especially if it involves fantasy. He’s been told he’s intimidating but really is just open to get comfortable and talk about anything. He enjoys seeking pleasure in the mundane."
     image: "https://media-exp1.licdn.com/dms/image/C5603AQGWmcqf9S0YyQ/profile-displayphoto-shrink_400_400/0/1599631765680?e=1669852800&v=beta&t=-fh3U5x77Fiq4Eg79RqCqGJL6ThCZnSoKifVD3eadlo"
 
 Description: "A comprehensive guide to step into the world of design from Harinarayanan Shaji who took the session Eye
