@@ -44,12 +44,12 @@ these are the most used and essential :
    ready-made design is disrespecting the whole process of design but, by using Canva and the wide range of features it
    has like templates, basic editing, and illustrations, you can make sure you are consistently creating and publishing
    your best work.
-   1. Photoshop - One of the best design tools out there. The learning curve might be slow and hard to progress through in
-      terms of the UI and the abundance of tools that are available, but once mastered, you won’t need anything else.
-   2. Figma - It is useful for working with teams and making integrated designs like carousels for Instagram, UI/UX,
-      colour-themed posters, etc. The UI is more simple and easier to understand, but not any less powerful.
-   3. Blender - It is the best tool for 3d digital art and rendering. With the rise in value and popularity of NFTs,
-      Blender has become one of the leading 3D design tools.
+2. Photoshop - One of the best design tools out there. The learning curve might be slow and hard to progress through in
+   terms of the UI and the abundance of tools that are available, but once mastered, you won’t need anything else.
+3. Figma - It is useful for working with teams and making integrated designs like carousels for Instagram, UI/UX,
+   colour-themed posters, etc. The UI is more simple and easier to understand, but not any less powerful.
+4. Blender - It is the best tool for 3d digital art and rendering. With the rise in value and popularity of NFTs,
+   Blender has become one of the leading 3D design tools.
 
 Developing an eye for the finer details of the design aspects around us and realising the thought and process that went
 behind every element is the main takeaway from the session.
