@@ -3,7 +3,6 @@ title: "An IndiaFOSS Story"
 date: 2022-08-13T15:23:44+05:30
 authors:
   - adithya-a
-  - sreehari-sreekumar
 
 Description: "A joyride through IEDC MECs indiafoss experience as community partners in the form of a conversation between two friends✨"
 Tags: ["foss", "fossunited", "conference"]
